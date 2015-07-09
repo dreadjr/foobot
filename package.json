@@ -1,0 +1,24 @@
+{
+  "name": "foobot",
+  "version": "0.0.1",
+  "description": "Node.js Foobot api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreadjr/foobot.git"
+  },
+  "keywords": [
+    "foobot",
+    "node",
+    "api"
+  ],
+  "author": "dreadjr@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreadjr/foobot/issues"
+  },
+  "homepage": "https://github.com/dreadjr/foobot#readme"
+}
