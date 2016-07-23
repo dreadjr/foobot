@@ -12,6 +12,7 @@ let Promise = require('bluebird');
 let debug = require('debug')('foobot:v2')
 const querystring = require('querystring');
 
+// https://api.foobot.io/apidoc/index.html
 module.exports = class FoobotClient {
 //class FoobotClient {
 
